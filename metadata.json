@@ -1,0 +1,5 @@
+{
+  "name": "Prisms Car Explorer",
+  "description": "A production-grade React application for browsing and filtering car listings using the Prisms API.",
+  "requestFramePermissions": []
+}
