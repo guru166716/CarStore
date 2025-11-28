@@ -1,5 +1,5 @@
 {
   "name": "Prisms Car Explorer",
-  "description": "A production-grade React application for browsing and filtering car listings using the Prisms API.",
+  "description": "A production-grade automotive marketplace featuring vehicle comparison, loan calculators, dark mode, and resilient data fetching strategies.",
   "requestFramePermissions": []
 }
